@@ -37,5 +37,7 @@ EViM is built upon the following publicly available datasets:
 - [N-ImageNet](https://github.com/82magnolia/n_imagenet)
 - [DSEC-Detection](https://github.com/uzh-rpg/dsec-det)
 
+## LICENSE
+This work is under the Apache License 2.0. Original source datasets remain subject to their respective licenses and terms.
 
 
