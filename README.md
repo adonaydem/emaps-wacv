@@ -27,8 +27,8 @@ We study the task of event-based promptable video segmentation via knowledge tra
 
 ### Download Annotations
 
-- [EViM N-ImageNet](https://drive.google.com/file/d/1rfcVka5SZFMUVPUUcXjvZxCAPGyR4Hzj/view?usp=sharing)
-- [EViM DSEC](https://drive.google.com/file/d/1P_u8-fHmuUS6GKgizlK8--NeCkz9gAW3/view?usp=drive_link)
+- [EViM N-ImageNet (Single images for knowledge transfer)](https://drive.google.com/file/d/1rfcVka5SZFMUVPUUcXjvZxCAPGyR4Hzj/view?usp=sharing)
+- [EViM DSEC (Sequences for Video Object Segmentation)](https://drive.google.com/file/d/1P_u8-fHmuUS6GKgizlK8--NeCkz9gAW3/view?usp=drive_link)
 
 ### Source Datasets
 
